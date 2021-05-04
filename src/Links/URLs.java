@@ -11,6 +11,9 @@ public class URLs {
     public static  String BOOKINGBYID="https://restful-booker.herokuapp.com/booking/$id";
     
     public static  String ReqResAPI="https://reqres.in/api/users/";
+    
+    public static  String Autho = "https://restful-booker.herokuapp.com/auth";
+
     //https://reqres.in/api/users/2
     
     
